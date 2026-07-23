@@ -1,0 +1,19 @@
+{
+    "Verify cookies content":{
+        "content" : "We may use cookies and similar technologies to collect information about the"
+        
+    },
+    "Verify cookies pop-up closed after clicking on Allow all":{
+        "button" : "allow all"
+    },
+    "Login Page with valid credentials":{
+        "username":"arepallichandu10@gmail.com",
+        "password":"Chandu@92",
+        "button" : "allow all"
+    },
+    "Login Page New":{
+        "username":"arepallichandu10@gmail.com",
+        "password":"Chandu@92",
+        "button" : "allow all"
+    }
+}

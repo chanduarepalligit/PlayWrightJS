@@ -1,0 +1,10 @@
+{
+    "loginLink" : "a.user-menu__link",
+    "loginTitle" : "h1.page-title",
+    "email" : "input[aria-label='Business email']",
+    "password" : "input[aria-label='Password']",
+    "loginButton" : "crt-button.login-button",
+    "forgotPassword" : "//a[contains(text(),'Forgot your password?')]",
+    "skip" : "//span[contains(text(),'Skip')]",
+    "usersAfterLogin" : "//span[contains(text(),'Users')]"
+}
